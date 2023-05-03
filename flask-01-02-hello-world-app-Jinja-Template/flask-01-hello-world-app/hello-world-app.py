@@ -1,5 +1,3 @@
-
-
 # - Import Flask module.
 from flask import Flask
 
